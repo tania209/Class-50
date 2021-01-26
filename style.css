@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+}
+
+.school{
+    background-color: blueviolet;
+    display:flex;
+    justify-content: space-between;
+
+}
+.block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p, h2{
+    text-align: center;
+
+}
